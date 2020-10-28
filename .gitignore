@@ -1,0 +1,4 @@
+.idea
+back/venv
+front/.idea
+front/node_modules
